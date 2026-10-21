@@ -11,4 +11,4 @@ Mathematics & Computer Science student at Queen's University Belfast, looking fo
 Java · Python · TypeScript · JavaScript · React · Electron · Supabase · Vercel
 
 ## Contact
-[LinkedIn](YOUR_LINK) · whitemanoscar@gmail.com
+[LinkedIn](https://www.linkedin.com/in/oscar-whiteman-766282335) · whitemanoscar@gmail.com
